@@ -25,8 +25,9 @@ wait(5)
 
 wait(5) 
     game.StarterGui:SetCore("SendNotification", {
-    Title = " ";
+    Title = "Key = JioaKey45";
     Text = "3/3";
     Duration = 1;
 })
 end) 
+
